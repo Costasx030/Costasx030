@@ -1,0 +1,3 @@
+/home/cos/CLionProjects/task4/cmake-build-debug/CMakeFiles/task4.dir
+/home/cos/CLionProjects/task4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cos/CLionProjects/task4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
