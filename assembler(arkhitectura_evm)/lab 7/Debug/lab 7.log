@@ -1,0 +1,5 @@
+﻿  lab 7.cpp
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(8,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(8,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(8,36): warning C4305: инициализация: усечение из "double" в "float"
+  lab 7.vcxproj -> C:\Users\Константин\source\repos\lab 7\Debug\lab 7.exe

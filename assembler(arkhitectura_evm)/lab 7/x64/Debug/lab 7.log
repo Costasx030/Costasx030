@@ -1,0 +1,23 @@
+﻿  lab 7.cpp
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(8,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(8,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(8,36): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(11,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(12,9): error C2065: finit: необъявленный идентификатор
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(14,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(14,9): error C2065: fld: необъявленный идентификатор
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "k"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(15,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(15,9): error C2065: fld: необъявленный идентификатор
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(15,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "l"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(16,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(16,9): error C2065: fld: необъявленный идентификатор
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "m"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(17,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fadd"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(17,9): error C2065: fadd: необъявленный идентификатор
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(18,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fadd"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(18,9): error C2065: fadd: необъявленный идентификатор
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(19,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(19,9): error C2065: fstp: необъявленный идентификатор
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(19,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "m"
+C:\Users\Константин\source\repos\lab 7\lab 7.cpp(20,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
